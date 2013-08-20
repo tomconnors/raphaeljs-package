@@ -1,5 +1,5 @@
 {
-	"name": "raphaeljs-package",
+	"name": "raphael",
 	"description": "Meteor packaging of Raphael js vector graphics library.",
 	"homepage": "https://github.com/doubledare/raphaeljs-package",
 	"author": "Joc O'Connor (https://github.com/doubledare)",

@@ -1,0 +1,1 @@
+Raphael = this.Raphael;
