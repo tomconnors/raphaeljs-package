@@ -4,4 +4,6 @@ Package.describe({
 
 Package.on_use(function (api, where) {
   api.add_files('lib/raphael/raphael-min.js', 'client');
+  
+  api.export(["Raphael"], ["client"]);
 });
