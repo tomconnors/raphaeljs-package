@@ -1,1 +1,0 @@
-Raphael = this.Raphael;

@@ -3,7 +3,6 @@ Package.describe({
 });
 
 Package.on_use(function (api, where) {
-  api.add_files(['raphael.js', 'post.js'], 'client');
-  
+  api.add_files(['raphael.js'], 'client');
   api.export(["Raphael"], ["client"]);
 });
